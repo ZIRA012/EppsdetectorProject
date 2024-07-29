@@ -1,0 +1,9 @@
+{
+    "default_path_csv": "C:/Users/Ronald/Anheuser-Busch InBev/TECH - DetecionEpps/reporte.csv",
+    "videoSource": "http://admin:nbcm2021@10.160.78.39/ISAPI/Streaming/channels/102/httpPreview",
+    "sourceType": "Camara IP",
+    "ip": "10.160.78.39",
+    "user": "admin",
+    "password": "nbcm2021",
+    "emailRecipient": "dterraza@cbn.com.bo"
+}
