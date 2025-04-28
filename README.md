@@ -16,9 +16,3 @@ Además, envía **notificaciones por correo electrónico** a los supervisores cu
 - OpenCV
 - CUDA
 - SMTP (correo)
-
-## Cómo Ejecutarlo
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
